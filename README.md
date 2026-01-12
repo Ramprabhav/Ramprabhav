@@ -46,8 +46,8 @@
 
 ## 📫 How to Reach Me
 - GitHub: https://github.com/Ramprabhav  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(add your professional email here)*  
+- LinkedIn: www.linkedin.com/in/ramprabhav
+- Email:prabhav273209@gmail.com  
 
 ---
 

@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python, C, JavaScript  
 - **Core Skills:** Data Structures & Algorithms, OOPs  
-- **Web:** HTML, CSS, JavaScript, Node.js, Express.js, React,Springboot  
+- **Web:** HTML, CSS, JavaScript, Node.js, Express.js, React, Springboot  
 - **Tools:** Git, GitHub, VS Code  
 
 ---

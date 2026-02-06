@@ -22,9 +22,15 @@
 ---
 
 ## 📂 Projects
-- 🔗 **LinkedIn Clone** – Frontend clone using HTML, CSS & JavaScript  
-- 📊 **DSA Practice (Java)** – Call by value, recursion, factorial, etc.  
-- 🧠 **LeetCode Solutions** – Java-based problem solving  
+- 🔗 **SkillBridge** –A full-stack web application connecting daily-wage workers with local employers.
+-  Built with React, Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.
+-  Includes worker listings and a responsive, user-friendly interface
+  
+- 🔗 **Face And Uniform Attendence System (Python)** –The Face and Uniform Attendance System is an automated,
+- AI-powered solution that uses computer vision (OpenCV) and machine learning to identify individuals and verify uniform compliance.
+- It streamlines attendance by replacing manual methods with real-time video, storing data in databases, and enhancing security in schools or workplaces.   
+
+- 🔗 **Airbnb Clone** – An Airbnb Clone is a full-stack web application that replicates the core functionality of the vacation rental platform, allowing users to search, browse, and book accommodations. Developed using technologies like the MERN stack (MongoDB, Express, React, Node) or Next.js, it features user authentication, listing management, search filters, and booking capabilities. 
 
 👉 More projects coming soon…
 
